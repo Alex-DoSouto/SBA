@@ -64,3 +64,5 @@ External scripts
 Use variables, if statements, loops, at least one form of collections, functions/call back, and events
 </p>
 </details>
+
+Deployed to https://mylocalhealth.netlify.app/index.html
